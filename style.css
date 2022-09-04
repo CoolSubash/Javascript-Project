@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.acc-heading{
+    text-align: center;
+    margin-top:3rem;
+}
+.acc-content{
+    margin:3rem auto;
+    width:70%;
+    text-align: center;
+}
+.top-head{
+    background-color: red;
+    padding: 16px;
+    border-bottom: 1px solid #ffff;
+
+}
+.top-head{
+    cursor: pointer;
+}
+.text{
+    background-color: green;
+    padding: 16px;
+    display: none;
+}
